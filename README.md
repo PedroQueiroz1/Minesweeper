@@ -1,6 +1,6 @@
 # Minesweeper
 
-A minesweeper game;
+A minesweeper game.
 
 ## Description
 It is a project created to get more in depth with the Java language.
